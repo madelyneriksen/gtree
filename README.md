@@ -1,11 +1,11 @@
-Git Ignore File Trees
+gTree - .gitignore Aware Tree
 ====
 
-```tree``` is one of my most used linux commands. However, specifying files to ignore can be annoying or really verbose. So I decided to write a basic python script to parse .gitignore files and pipe them into tree!
+`tree` is one of my most used linux commands. However, adding files to ignore can be annoying or really verbose. So I decided to write a basic python script to parse .gitignore files and pipe them into tree!
 
 ### Getting Started
 
-Install ```tree``` from your package manager:
+Install `tree` from your package manager:
 ```
 # Debian, Ubuntu, etc.
 sudo apt-get install tree
