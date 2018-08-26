@@ -1,2 +1,4 @@
+# Ignore python things
 __pycache__
 .env
+*.egg-info
